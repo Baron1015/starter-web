@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 asdf
+more changes on my feature
 ##Introduction
 Hello
 Hi
